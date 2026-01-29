@@ -1,0 +1,18 @@
+.menu {
+    padding: 20px;
+}
+
+.menu h2 {
+    color: #d35400;
+    margin-top: 30px;
+}
+
+.menu ul {
+    list-style: none;
+    padding: 0;
+}
+
+.menu li {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
